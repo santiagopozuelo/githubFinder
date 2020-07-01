@@ -1,0 +1,10 @@
+hoook:
+used tomake functional components with state
+
+hook functions:
+
+useState
+useEffect : allows to use effects like component did mount, fetch users when component load
+
+useContext, userReducer: use context api
+easy to bring context into any component
